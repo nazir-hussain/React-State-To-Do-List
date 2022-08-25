@@ -1,6 +1,5 @@
 # Boilerplate Todo list
-Question 1
-easy
+Question (easy)
 
 Todo List
 This assignment will teach students how to make the most basic and most asked question of interviews i.e making a to-do list in react.
